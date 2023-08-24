@@ -8,7 +8,7 @@ const Privacy_heading = () => {
 
     <p className="mb-4 text-center text-2xl font-bold text-black md:mb-6 lg:text-3xl">Before you get started</p>
 
-    <p className="mx-auto max-w-screen-md text-center text-black md:text-lg">"We won't share your answers with anyone (and won't ever tell you which friends said what about you)"</p>
+    <p className="mx-auto max-w-screen-md text-center text-black md:text-lg">&quot;We won&apos;t share your answers with anyone (and won&apos;t ever tell you which friends said what about you)&quot;</p>
     
     <div className="flex flex-row justify-center pt-5">
     <p className="mb-2 text-center font-semibold text-black md:mb-3 lg:text-lg">with love,</p>

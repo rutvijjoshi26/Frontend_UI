@@ -42,7 +42,7 @@ const Cards = () => {
 
         <div className="flex flex-col items-center gap-2 sm:flex-row md:gap-3">
           <div>
-            <div className="text-center text-sm font-bold text-white sm:text-left md:text-base">You question yourself and wonder when they'll realize you're an unqualified imposter, instead of trusting yourself & your abilities</div>
+            <div className="text-center text-sm font-bold text-white sm:text-left md:text-base">You question yourself and wonder when they&apos;ll realize you&apos;re an unqualified imposter, instead of trusting yourself & your abilities</div>
           </div>
         </div>
     </div>
